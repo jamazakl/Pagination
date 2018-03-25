@@ -25,9 +25,9 @@ tr:nth-child(even) {
 }
 
 th {
-    background-color: #4CAF50;
+    background-color: #af4c4c;
     color: white;
-    border: #4CAF50;
+    border: #af4c4c;
 }
 
 .pagination { 
